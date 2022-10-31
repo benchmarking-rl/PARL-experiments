@@ -1,8 +1,0 @@
-source activate
-conda activate pytorch
-python ~/Zhy_Work/PARL/benchmark/torch/ddpg/train.py --env HalfCheetah-v4 --seed 
-
-
-Sever Machine：
-zhouhongyi@yq01-ps-201704-m12-heng4.yq01
-zhouhongyi@yq01-ps-201704-m12-heng1.yq01
